@@ -1,0 +1,9 @@
+c:\users\kashif\documents\visual studio 2017\Projects\IterativeFractalForm\IterativeFractalForm\obj\Debug\IterativeFractalForm.csprojResolveAssemblyReference.cache
+c:\users\kashif\documents\visual studio 2017\Projects\IterativeFractalForm\IterativeFractalForm\obj\Debug\IterativeFractalForm.Form1.resources
+c:\users\kashif\documents\visual studio 2017\Projects\IterativeFractalForm\IterativeFractalForm\obj\Debug\IterativeFractalForm.Properties.Resources.resources
+c:\users\kashif\documents\visual studio 2017\Projects\IterativeFractalForm\IterativeFractalForm\obj\Debug\IterativeFractalForm.csproj.GenerateResource.Cache
+c:\users\kashif\documents\visual studio 2017\Projects\IterativeFractalForm\IterativeFractalForm\bin\Debug\IterativeFractalForm.exe.config
+c:\users\kashif\documents\visual studio 2017\Projects\IterativeFractalForm\IterativeFractalForm\bin\Debug\IterativeFractalForm.exe
+c:\users\kashif\documents\visual studio 2017\Projects\IterativeFractalForm\IterativeFractalForm\bin\Debug\IterativeFractalForm.pdb
+c:\users\kashif\documents\visual studio 2017\Projects\IterativeFractalForm\IterativeFractalForm\obj\Debug\IterativeFractalForm.exe
+c:\users\kashif\documents\visual studio 2017\Projects\IterativeFractalForm\IterativeFractalForm\obj\Debug\IterativeFractalForm.pdb
