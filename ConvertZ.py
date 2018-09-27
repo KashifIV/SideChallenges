@@ -4,8 +4,6 @@ def ConvertZtoF(Z):
     
     row = int(abs(Z*10))
     col = int((abs(Z*10) % row)*10)
-    print(row)
-    print(col)
     if Z < 0:
         return 1-area[row][col]
     return area[row][col]
