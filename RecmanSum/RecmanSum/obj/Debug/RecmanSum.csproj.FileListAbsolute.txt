@@ -1,0 +1,9 @@
+C:\Users\kashi\documents\visual studio 2017\Projects\RecmanSum\RecmanSum\obj\Debug\RecmanSum.csprojResolveAssemblyReference.cache
+C:\Users\kashi\documents\visual studio 2017\Projects\RecmanSum\RecmanSum\obj\Debug\RecmanSum.RecmanVisualization.resources
+C:\Users\kashi\documents\visual studio 2017\Projects\RecmanSum\RecmanSum\obj\Debug\RecmanSum.Properties.Resources.resources
+C:\Users\kashi\documents\visual studio 2017\Projects\RecmanSum\RecmanSum\obj\Debug\RecmanSum.csproj.GenerateResource.Cache
+C:\Users\kashi\documents\visual studio 2017\Projects\RecmanSum\RecmanSum\bin\Debug\RecmanSum.exe.config
+C:\Users\kashi\documents\visual studio 2017\Projects\RecmanSum\RecmanSum\bin\Debug\RecmanSum.exe
+C:\Users\kashi\documents\visual studio 2017\Projects\RecmanSum\RecmanSum\bin\Debug\RecmanSum.pdb
+C:\Users\kashi\documents\visual studio 2017\Projects\RecmanSum\RecmanSum\obj\Debug\RecmanSum.exe
+C:\Users\kashi\documents\visual studio 2017\Projects\RecmanSum\RecmanSum\obj\Debug\RecmanSum.pdb
