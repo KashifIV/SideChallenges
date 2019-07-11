@@ -1,2 +1,2 @@
-# SummerChallenge-2018
+# SideChallenges
 Small projects to help improve my skills.
